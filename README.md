@@ -19,14 +19,14 @@
 
 ## 📈 GitHub Stats
 
-![anamaiberg](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![anamaiberg](https://github-readme-stats.vercel.app/api?username=anamaiberg&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Como me encontrar
 
-- Email: [ana.maibergx.com](mailto:seu-email@email.com)  
-- LinkedIn: [linkedin.com/in/ana-clara-maiberg](https://linkedin.com/in/seu-usuario)  
+- Email: [ana.maibergx.com](mailto:ana.maibergx@gmail.com)  
+- LinkedIn: [linkedin.com/in/ana-clara-maiberg](www.linkedin.com/in/ana-clara-maiberg)  
 
 ---
 
