@@ -39,7 +39,7 @@
 
 ## ✨ GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamaiberg&layout=compact&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamaiberg&layout=compact&theme=pastel_on_dark)
 
 ---
 
