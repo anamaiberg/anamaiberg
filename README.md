@@ -4,7 +4,7 @@
 💼 Atuando como **Analista de QA**  
 🚀 Estudando **automação de testes com Playwright + JavaScript**  
 🎓 Egressa do programa **Entra21**  
-🗣️ **Fluente em inglês** (leitura, escrita e conversação)
+🗣️ **Fluente em inglês** (Nível C2)
 
 ---
 
