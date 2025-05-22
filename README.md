@@ -8,7 +8,7 @@
 
 ---
 
-## 🧁 Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 **Linguagens:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFE066?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,17 +37,17 @@
 
 ---
 
-## ✨ GitHub Stats
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamaiberg&layout=compact&theme=pastel_on_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamaiberg&layout=compact&theme=rose_pine)
 
 ---
 
-## 🌷 Como me encontrar
+## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E3A1C4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-maiberg/)  
 [![Gmail](https://img.shields.io/badge/Gmail-FF6961?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.maibergx@gmail.com)
 
 ---
 
-⭐ Obrigada por visitar meu perfil! Que seu dia seja doce como código bem escrito! 🍰
+✨ Obrigada por visitar meu perfil! 
